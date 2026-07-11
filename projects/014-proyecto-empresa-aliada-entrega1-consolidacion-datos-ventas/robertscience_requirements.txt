@@ -1,0 +1,18 @@
+# ============================================================
+# RobertsScience
+# Data Analytics & Engineering Solutions
+#
+# Proyecto:
+# Consolidación y Preparación de Datos de Ventas
+#
+# Entorno:
+# Python 3.11
+#
+# Dependencias del proyecto
+# ============================================================
+
+pandas
+numpy
+openpyxl
+jupyter
+notebook

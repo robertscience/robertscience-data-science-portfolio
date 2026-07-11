@@ -1,0 +1,9 @@
+INSIGHTS – EDA VENTAS CONSOLIDADAS
+
+- Observé una distribución sesgada hacia valores bajos en ventas.
+- Identifiqué valores atípicos relevantes en el comportamiento comercial.
+- Analicé variaciones en la tendencia temporal de ventas.
+- Detecté diferencias claras entre regiones.
+- Confirmé relación positiva entre unidades y valor de ventas.
+
+Este análisis me permitió comprender el comportamiento general del negocio.
