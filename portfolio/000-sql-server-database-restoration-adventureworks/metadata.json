@@ -1,1 +1,11 @@
 
+{
+  "name": "Modelo Predictivo de Ventas",
+  "description": "Modelo de Machine Learning para predecir ventas futuras usando regresión y series temporales.",
+  "category": "Machine Learning",
+  "difficulty": "Intermedio",
+  "duration": "4 semanas",
+  "date": "2026",
+  "technologies": ["Python", "Pandas", "Scikit-Learn", "SQL", "Matplotlib"],
+  "image": "portada.png"
+}
